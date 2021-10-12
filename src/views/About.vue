@@ -1,12 +1,14 @@
 <template>
 <div>
   <div id="wrapper">
+
     
     <NavHorizontal />
     <NavVertical/>
-    
+
+
   </div>
-<div class="container">
+<div class="container-fluid">
 
 
 
